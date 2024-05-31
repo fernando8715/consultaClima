@@ -1,14 +1,15 @@
 # React + TypeScript + Vite + libreria de tipado de datos
 
-# Proyecto para consultar el clima a traves de la consulta a una API, para las consultas se utiliza la libreria de axios para hacer el fetch de datos.
+## Proyecto para consultar el clima 
+-a traves de la consulta a una API, para las consultas se utiliza la libreria de axios para hacer el fetch de datos.
 
-# Proyecto creado durante el curso React y TypesCript en la plataforma Udemy con el profesor Juan de la Torre
+## Proyecto creado durante el curso React y TypesCript en la plataforma Udemy con el profesor Juan de la Torre
 
-# El CSS se realizo aplicando los modulos permitiendo realizar los estilos por cada componente.
+- El CSS se realizo aplicando los modulos permitiendo realizar los estilos por cada componente.
 
-# para el tipado de los datos recuperados por la api, se utilizo la libreria de zod para crear el esquema y las validaciones de los datos.
+- para el tipado de los datos recuperados por la api, se utilizo la libreria de zod para crear el esquema y las validaciones de los datos.
 
-# se utilizo los spinner para mostrar en pantalla cuando se esta realizando una consulta con los spinner que estan en el enlace https://tobiasahlin.com/spinkit/
+- se utilizo los spinner para mostrar en pantalla cuando se esta realizando una consulta con los spinner que estan en el enlace https://tobiasahlin.com/spinkit/
 
 
 
